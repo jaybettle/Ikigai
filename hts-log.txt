@@ -1,0 +1,153 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sun, 12 Jan 2025 11:11:28 at https://limaghana.com/wp/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://limaghana.com/wp/ -O1 "C:\My Web Sites\REAL\lima" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+11:11:37	Warning: 	Note: due to https://limaghana.com remote robots.txt rules, links beginning with these path will be forbidden: /administrator/, /bin/, /cache/, /cli/, /components/, /includes/, /installation/, /language/, /layouts/, /libraries/, /logs/, /modules/, /plugins/, /tmp/ (see in the options to disable this)
+11:12:28	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://limaghana.com/wp/wp-content/plugins/oslim-addon/assets/css/oslim-addon.css?ver=1692020994
+11:22:14	Error: 	"Not Found" (404) at link https://limaghana.com/wp/portofolio (from https://limaghana.com/wp/)
+11:22:50	Warning: 	Retry after error -5 (Unable to get server's address: No such host is known. ) at link layerdrops.com/oslimwp/wp-content/uploads/2022/02/work-together-shape-1.png (from https://limaghana.com/wp/)
+11:26:00	Error: 	"Not Found" (404) at link https://limaghana.com/wp/wp-content/plugins/oslim-addon/assets/vendors/images/icon/bx_loader.gif (from https://limaghana.com/wp/wp-content/plugins/oslim-addon/assets/vendors/bxslider/jquery.bxslider.css?ver=1692020994)
+11:26:00	Error: 	"Not Found" (404) at link https://limaghana.com/wp/wp-content/plugins/oslim-addon/assets/vendors/img/bx-slider/controls.png (from https://limaghana.com/wp/wp-content/plugins/oslim-addon/assets/vendors/bxslider/jquery.bxslider.css?ver=1692020994)
+11:26:00	Error: 	"Not Found" (404) at link https://limaghana.com/wp/wp-content/plugins/oslim-addon/assets/vendors/owl-carousel/owl.video.play.png (from https://limaghana.com/wp/wp-content/plugins/oslim-addon/assets/vendors/owl-carousel/owl.carousel.min.css?ver=1692020994)
+11:26:04	Warning: 	Moved Permanently for https://limaghana.com/wp/?p=18
+11:26:04	Warning: 	File has moved from https://limaghana.com/wp/?p=18 to https://limaghana.com/wp/about-us/
+11:26:04	Warning: 	Moved Permanently for https://limaghana.com/wp/cases/
+11:26:04	Warning: 	File has moved from https://limaghana.com/wp/cases/ to https://limaghana.com/wp/cases-two/
+11:26:04	Warning: 	Moved Permanently for https://limaghana.com/wp/?p=26
+11:26:04	Warning: 	File has moved from https://limaghana.com/wp/?p=26 to https://limaghana.com/wp/portolio/
+11:26:28	Warning: 	Moved Permanently for https://limaghana.com/wp/?p=30
+11:26:28	Warning: 	File has moved from https://limaghana.com/wp/?p=30 to https://limaghana.com/wp/team/
+11:26:28	Warning: 	Moved Permanently for https://limaghana.com/wp/?p=1471
+11:26:28	Warning: 	File has moved from https://limaghana.com/wp/?p=1471 to https://limaghana.com/wp/events/
+11:26:28	Warning: 	Moved Permanently for https://limaghana.com/wp/?p=38
+11:26:28	Warning: 	File has moved from https://limaghana.com/wp/?p=38 to https://limaghana.com/wp/services/
+11:26:28	Warning: 	Moved Permanently for https://limaghana.com/wp/?p=1468
+11:26:28	Warning: 	File has moved from https://limaghana.com/wp/?p=1468 to https://limaghana.com/wp/careers/
+11:26:28	Warning: 	Retry after error -5 (error:00000005:lib(0):func(0):DH lib) at link https://limaghana.com/wp/?p=22 (from https://limaghana.com/wp/lima-digest/)
+11:26:28	Warning: 	Retry after error -5 (error:00000005:lib(0):func(0):DH lib) at link https://limaghana.com/wp/the-future-of-e-commerce-in-ghana-compliance-with-emerging-digital-trade-regulations/ (from https://limaghana.com/wp/lima-digest/)
+11:26:28	Warning: 	Retry after error -5 (error:00000005:lib(0):func(0):DH lib) at link https://limaghana.com/wp/wp-content/uploads/2024/08/WhatsApp-Image-2024-08-22-at-09.30.23.jpeg (from https://limaghana.com/wp/lima-digest/)
+11:29:46	Warning: 	Moved Permanently for https://limaghana.com/wp/?p=24
+11:29:46	Warning: 	File has moved from https://limaghana.com/wp/?p=24 to https://limaghana.com/wp/contact/
+11:29:46	Warning: 	Moved Permanently for https://limaghana.com/wp/?p=357
+11:29:46	Warning: 	File has moved from https://limaghana.com/wp/?p=357 to https://limaghana.com/wp/service/tax-compliance/
+11:29:46	Warning: 	Moved Permanently for https://limaghana.com/wp/?p=355
+11:29:46	Warning: 	File has moved from https://limaghana.com/wp/?p=355 to https://limaghana.com/wp/service/payroll-services/
+11:29:46	Warning: 	Moved Permanently for https://limaghana.com/wp/?p=354
+11:29:46	Warning: 	File has moved from https://limaghana.com/wp/?p=354 to https://limaghana.com/wp/service/consulting/
+11:29:46	Warning: 	Moved Permanently for https://limaghana.com/wp/?p=353
+11:29:46	Warning: 	File has moved from https://limaghana.com/wp/?p=353 to https://limaghana.com/wp/service/regulatory-compliance/
+11:29:46	Warning: 	Moved Permanently for https://limaghana.com/wp/?p=352
+11:29:46	Warning: 	File has moved from https://limaghana.com/wp/?p=352 to https://limaghana.com/wp/service/accounting/
+11:29:47	Warning: 	Moved Permanently for https://limaghana.com/wp/?p=890
+11:29:47	Warning: 	File has moved from https://limaghana.com/wp/?p=890 to https://limaghana.com/wp/service/immigration-services/
+11:29:47	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link layerdrops.com/oslimwp/wp-content/uploads/2022/02/work-together-shape-1.png (from https://limaghana.com/wp/)
+11:29:47	Warning: 	Moved Permanently for https://limaghana.com/wp/?p=296
+11:29:47	Warning: 	File has moved from https://limaghana.com/wp/?p=296 to https://limaghana.com/wp/portfolio/p1/
+11:29:47	Warning: 	Moved Permanently for https://limaghana.com/wp/?p=837
+11:29:47	Warning: 	File has moved from https://limaghana.com/wp/?p=837 to https://limaghana.com/wp/portfolio/p7/
+11:29:47	Warning: 	Moved Permanently for https://limaghana.com/wp/?p=851
+11:29:47	Warning: 	File has moved from https://limaghana.com/wp/?p=851 to https://limaghana.com/wp/portfolio/p20/
+11:29:47	Warning: 	Moved Permanently for https://limaghana.com/wp/?p=1176
+11:29:47	Warning: 	File has moved from https://limaghana.com/wp/?p=1176 to https://limaghana.com/wp/portfolio/p27/
+11:29:47	Warning: 	Moved Permanently for https://limaghana.com/wp/?p=1177
+11:29:47	Warning: 	File has moved from https://limaghana.com/wp/?p=1177 to https://limaghana.com/wp/portfolio/p28/
+11:29:47	Warning: 	Moved Permanently for https://limaghana.com/wp/?p=857
+11:29:47	Warning: 	File has moved from https://limaghana.com/wp/?p=857 to https://limaghana.com/wp/portfolio/p24/
+11:29:47	Warning: 	Moved Permanently for https://limaghana.com/wp/?p=858
+11:29:47	Warning: 	File has moved from https://limaghana.com/wp/?p=858 to https://limaghana.com/wp/portfolio/p25/
+11:29:47	Warning: 	Moved Permanently for https://limaghana.com/wp/?p=841
+11:29:47	Warning: 	File has moved from https://limaghana.com/wp/?p=841 to https://limaghana.com/wp/portfolio/p10/
+11:29:48	Warning: 	Moved Permanently for https://limaghana.com/wp/?p=847
+11:29:48	Warning: 	File has moved from https://limaghana.com/wp/?p=847 to https://limaghana.com/wp/portfolio/p18/
+11:29:48	Warning: 	Moved Permanently for https://limaghana.com/wp/?p=298
+11:29:48	Warning: 	File has moved from https://limaghana.com/wp/?p=298 to https://limaghana.com/wp/portfolio/p6/
+11:29:48	Warning: 	Moved Permanently for https://limaghana.com/wp/?p=839
+11:29:48	Warning: 	File has moved from https://limaghana.com/wp/?p=839 to https://limaghana.com/wp/portfolio/p8/
+11:29:48	Warning: 	Moved Permanently for https://limaghana.com/wp/?p=840
+11:29:48	Warning: 	File has moved from https://limaghana.com/wp/?p=840 to https://limaghana.com/wp/portfolio/p9/
+11:29:48	Warning: 	Moved Permanently for https://limaghana.com/wp/?p=36
+11:29:48	Warning: 	File has moved from https://limaghana.com/wp/?p=36 to https://limaghana.com/wp/request-quote/
+11:29:48	Warning: 	Moved Permanently for https://limaghana.com/wp/?p=2183
+11:29:48	Warning: 	File has moved from https://limaghana.com/wp/?p=2183 to https://limaghana.com/wp/understanding-the-difference-between-accounting-and-bookkeeping/
+11:29:48	Error: 	"Method Not Allowed" (405) at link https://limaghana.com/wp/xmlrpc.php (from https://limaghana.com/wp/understanding-the-difference-between-accounting-and-bookkeeping/)
+11:30:52	Warning: 	Moved Permanently for https://limaghana.com/wp/?p=2177
+11:30:52	Warning: 	File has moved from https://limaghana.com/wp/?p=2177 to https://limaghana.com/wp/foreign-tax-credit-regime-in-ghana/
+11:30:52	Warning: 	Moved Permanently for https://limaghana.com/wp/?p=2172
+11:30:52	Warning: 	File has moved from https://limaghana.com/wp/?p=2172 to https://limaghana.com/wp/managing-transfer-pricing-audits-in-ghana-strategies-for-effective-risk-management/
+11:30:52	Warning: 	Retry after error -4 (No data (connection closed)) at link https://limaghana.com/wp/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flimaghana.com%2Fwp%2Fmanaging-transfer-pricing-audits-in-ghana-strategies-for-effective-risk-management%2F (from https://limaghana.com/wp/managing-transfer-pricing-audits-in-ghana-strategies-for-effective-risk-management/)
+11:30:58	Warning: 	Moved Permanently for https://limaghana.com/wp/?p=297
+11:30:58	Warning: 	File has moved from https://limaghana.com/wp/?p=297 to https://limaghana.com/wp/portfolio/p3/
+11:30:58	Warning: 	Moved Permanently for https://limaghana.com/wp/?p=854
+11:30:58	Warning: 	File has moved from https://limaghana.com/wp/?p=854 to https://limaghana.com/wp/portfolio/p22/
+11:30:58	Warning: 	Moved Permanently for https://limaghana.com/wp/?p=855
+11:30:58	Warning: 	File has moved from https://limaghana.com/wp/?p=855 to https://limaghana.com/wp/portfolio/p23/
+11:30:58	Warning: 	Moved Permanently for https://limaghana.com/wp/?p=844
+11:30:58	Warning: 	File has moved from https://limaghana.com/wp/?p=844 to https://limaghana.com/wp/portfolio/p13/
+11:30:58	Warning: 	Moved Permanently for https://limaghana.com/wp/?p=852
+11:30:58	Warning: 	File has moved from https://limaghana.com/wp/?p=852 to https://limaghana.com/wp/portfolio/p21/
+11:30:58	Warning: 	Moved Permanently for https://limaghana.com/wp/?p=22
+11:30:58	Warning: 	File has moved from https://limaghana.com/wp/?p=22 to https://limaghana.com/wp/lima-digest/
+11:31:02	Warning: 	Moved Permanently for https://limaghana.com/wp/?p=2155
+11:31:02	Warning: 	File has moved from https://limaghana.com/wp/?p=2155 to https://limaghana.com/wp/summary-article-on-the-exemption-regime-of-ghana/
+11:31:02	Warning: 	Moved Permanently for https://limaghana.com/wp/?p=2138
+11:31:02	Warning: 	File has moved from https://limaghana.com/wp/?p=2138 to https://limaghana.com/wp/preparing-financial-statements-under-ifrs-ias1-and-ifrs18/
+11:31:02	Warning: 	Moved Permanently for https://limaghana.com/wp/?p=2107
+11:31:02	Warning: 	File has moved from https://limaghana.com/wp/?p=2107 to https://limaghana.com/wp/management-styles-and-the-pitfalls-of-micromanagement/
+11:31:09	Warning: 	Moved Permanently for https://limaghana.com/wp/?p=2078
+11:31:09	Warning: 	File has moved from https://limaghana.com/wp/?p=2078 to https://limaghana.com/wp/recent-updates-in-transfer-pricing-pillar-12-framework-for-taxation-of-digital-economy/
+11:31:14	Warning: 	Moved Permanently for https://limaghana.com/wp/?p=2063
+11:31:14	Warning: 	File has moved from https://limaghana.com/wp/?p=2063 to https://limaghana.com/wp/navigating-customs-post-clearance-audit-in-ghana-a-comprehensive-guide/
+11:31:18	Warning: 	Moved Permanently for https://limaghana.com/wp/?p=2052
+11:31:18	Warning: 	File has moved from https://limaghana.com/wp/?p=2052 to https://limaghana.com/wp/a-report-on-the-2023-afcon/
+11:31:18	Warning: 	Moved Permanently for https://limaghana.com/wp/?p=2035
+11:31:18	Warning: 	File has moved from https://limaghana.com/wp/?p=2035 to https://limaghana.com/wp/ghanas-credit-rating-an-overview-of-recent-assessments/
+11:31:25	Warning: 	Moved Permanently for https://limaghana.com/wp/?p=2014
+11:31:25	Warning: 	File has moved from https://limaghana.com/wp/?p=2014 to https://limaghana.com/wp/navigating-revenue-recognition-with-ifrs-15/
+11:31:28	Warning: 	Moved Permanently for https://limaghana.com/wp/?p=1999
+11:31:28	Warning: 	File has moved from https://limaghana.com/wp/?p=1999 to https://limaghana.com/wp/navigating-the-landscape-of-cybersecurity-compliance-in-ghana/
+11:31:30	Warning: 	Moved Permanently for https://limaghana.com/wp/?p=1964
+11:31:30	Warning: 	File has moved from https://limaghana.com/wp/?p=1964 to https://limaghana.com/wp/the-evolving-role-of-human-resources-in-modern-organisations/
+11:31:30	Warning: 	Moved Permanently for https://limaghana.com/wp/?p=1940
+11:31:30	Warning: 	File has moved from https://limaghana.com/wp/?p=1940 to https://limaghana.com/wp/trends-in-the-accounting-profession-cloud-accounting-and-sustainability-reporting/
+11:33:20	Warning: 	Moved Permanently for https://limaghana.com/wp/lima-digest/page/1/
+11:33:20	Warning: 	File has moved from https://limaghana.com/wp/lima-digest/page/1/ to https://limaghana.com/wp/lima-digest/
+11:33:20	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link layerdrops.com/oslimwp/wp-content/uploads/2022/02/work-together-shape-1.png (from https://limaghana.com/wp/)
+11:33:26	Warning: 	Moved Permanently for https://limaghana.com/wp/?p=28
+11:33:26	Warning: 	File has moved from https://limaghana.com/wp/?p=28 to https://limaghana.com/wp/cases-two/
+11:33:26	Warning: 	Moved Permanently for https://limaghana.com/wp/?p=2161
+11:33:26	Warning: 	File has moved from https://limaghana.com/wp/?p=2161 to https://limaghana.com/wp/the-future-of-e-commerce-in-ghana-compliance-with-emerging-digital-trade-regulations/
+11:33:27	Warning: 	Moved Permanently for https://limaghana.com/wp/?p=1925
+11:33:27	Warning: 	File has moved from https://limaghana.com/wp/?p=1925 to https://limaghana.com/wp/tax-compliance-a-tool-for-effective-tax-planning-in-ghana/
+11:33:27	Warning: 	Moved Permanently for https://limaghana.com/wp/?p=1921
+11:33:27	Warning: 	File has moved from https://limaghana.com/wp/?p=1921 to https://limaghana.com/wp/2023-budget-review/
+11:33:27	Warning: 	Moved Permanently for https://limaghana.com/wp/?p=1917
+11:33:27	Warning: 	File has moved from https://limaghana.com/wp/?p=1917 to https://limaghana.com/wp/ghana-banking-industry-report-2023/
+11:33:27	Warning: 	Moved Permanently for https://limaghana.com/wp/?p=1912
+11:33:27	Warning: 	File has moved from https://limaghana.com/wp/?p=1912 to https://limaghana.com/wp/transfer-pricing-rules-in-ghana/
+11:33:28	Warning: 	Moved Permanently for https://limaghana.com/wp/?p=1876
+11:33:28	Warning: 	File has moved from https://limaghana.com/wp/?p=1876 to https://limaghana.com/wp/understanding-business-company-formations-in-ghana/
+11:33:28	Warning: 	Moved Permanently for https://limaghana.com/wp/?p=1733
+11:33:28	Warning: 	File has moved from https://limaghana.com/wp/?p=1733 to https://limaghana.com/wp/africas-economic-revolution/
+11:33:28	Warning: 	Moved Permanently for https://limaghana.com/wp/?p=1354
+11:33:28	Warning: 	File has moved from https://limaghana.com/wp/?p=1354 to https://limaghana.com/wp/tax-health/
+11:33:28	Warning: 	Moved Permanently for https://limaghana.com/wp/?p=1366
+11:33:28	Warning: 	File has moved from https://limaghana.com/wp/?p=1366 to https://limaghana.com/wp/ace-that-interview/
+11:33:28	Warning: 	Moved Permanently for https://limaghana.com/wp/?p=1371
+11:33:28	Warning: 	File has moved from https://limaghana.com/wp/?p=1371 to https://limaghana.com/wp/imf-conditionalities/
+11:33:28	Warning: 	Moved Permanently for https://limaghana.com/wp/?p=1376
+11:33:28	Warning: 	File has moved from https://limaghana.com/wp/?p=1376 to https://limaghana.com/wp/unravelling-ghanas-journey-with-the-imf/
+11:33:28	Warning: 	Moved Permanently for https://limaghana.com/wp/?p=1383
+11:33:28	Warning: 	File has moved from https://limaghana.com/wp/?p=1383 to https://limaghana.com/wp/updates-on-new-tax-acts/
+11:33:28	Warning: 	Moved Permanently for https://limaghana.com/wp/?p=1385
+11:33:28	Warning: 	File has moved from https://limaghana.com/wp/?p=1385 to https://limaghana.com/wp/recent-policy-amendents/
+11:33:28	Warning: 	Moved Permanently for https://limaghana.com/wp/?p=1390
+11:33:28	Warning: 	File has moved from https://limaghana.com/wp/?p=1390 to https://limaghana.com/wp/bonds/
+11:33:28	Warning: 	Moved Permanently for https://limaghana.com/wp/?p=1394
+11:33:28	Warning: 	File has moved from https://limaghana.com/wp/?p=1394 to https://limaghana.com/wp/proposed-tax-amendments/
+
+HTTrack Website Copier/3.49-2 mirror complete in 22 minutes 1 seconds : 805 links scanned, 728 files written (118164559 bytes overall) [118721188 bytes received at 89872 bytes/sec], 3.8 requests per connection
+(6 errors, 136 warnings, 0 messages)
