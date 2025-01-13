@@ -1,0 +1,31 @@
+.slider {
+  overflow: hidden;
+  white-space: nowrap;
+  position: relative;
+}
+.slider-track {
+  display: flex;
+  animation: scroll 10s linear infinite;
+  width: calc(200%);
+}
+.slider-track:hover {
+  animation-play-state: paused;
+}
+.slider-item {
+  flex: 0 0 auto;
+  margin-right: 30px;
+}
+.slider-item img {
+  max-width: 200px;
+  max-height: 200px;
+  display: block;
+}
+
+@keyframes scroll {
+  0% {
+    transform: translateX(0);
+  }
+  100% {
+    transform: translateX(-50%);
+  }
+}
